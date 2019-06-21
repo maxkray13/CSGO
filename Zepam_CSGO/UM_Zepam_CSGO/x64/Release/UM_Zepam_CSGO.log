@@ -1,0 +1,48 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl-" на "/GS-"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/arch:SSE"
+  Alloc.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  CRT.cpp
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  IsCtype.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  Memory.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  MultiByte.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\multibyte.c(3534): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\multibyte.c(3907): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Sprintf.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  String.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\string.c(118): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\string.c(119): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  WString.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\wstring.c(116): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\wstring.c(117): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\main.c(36): warning C4189: mod: локальная переменная инициализирована, но не использована
+  PeFormat.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  Process.c
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(10): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+c:\users\max\source\repos\zepam_csgo\um_zepam_csgo\crt\semaphore.h(15): warning C4133: функция: несовместимые типы - из "volatile LONG_PTR *" в "volatile long *"
+  Создание кода
+  15 of 49 functions (30.6%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  UM_Zepam_CSGO.vcxproj -> C:\Users\Max\source\repos\Zepam_CSGO\x64\Release\UMCL.exe

@@ -12,5 +12,4 @@ typedef struct _Dx9Info {
 }Dx9Info;
 extern Dx9Info g_Dx9Info;
 
-HRESULT hkDrawIndexedPrimitive(HANDLE hDevice, CONST D3DDDIARG_DRAWINDEXEDPRIMITIVE * Arg);
 BOOLEAN AttachToDx9();

@@ -10,9 +10,7 @@ typedef struct _Dx9Info {
 	PFND3DDDI_DRAWINDEXEDPRIMITIVE OriginalDrawIdx;
 
 }Dx9Info;
-
-HRESULT hkDrawIndexedPrimitive(HANDLE hDevice, CONST D3DDDIARG_DRAWINDEXEDPRIMITIVE * Arg);
-
 extern Dx9Info g_Dx9Info;
 
+HRESULT hkDrawIndexedPrimitive(HANDLE hDevice, CONST D3DDDIARG_DRAWINDEXEDPRIMITIVE * Arg);
 BOOLEAN AttachToDx9();
